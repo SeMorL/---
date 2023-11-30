@@ -1,0 +1,29 @@
+.main{
+    height: 970px;
+    width: 100%;
+    background-color: rgb(202, 237, 248);
+    display: flex;
+}
+.block{
+    background-color: white;
+    margin: 10px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.12);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.12);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.12);
+}
+.a1{
+    height: 400px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.a2{
+    height: 300px;
+    width: 350px;
+}
+.image{
+    height: 150px;
+    margin: 10px;
+}
