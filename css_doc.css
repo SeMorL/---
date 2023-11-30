@@ -27,3 +27,15 @@
     height: 150px;
     margin: 10px;
 }
+.buttons{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+}
